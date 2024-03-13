@@ -44,7 +44,7 @@ Video Demo For The Project : https://youtu.be/Lk9MfHaDBNA
 
 2. Clone the repository by using the command
         
-        git clone https://github.com/Krish-Depani/Decentralized-Voting-System-Using-Ethereum-Blockchain.git
+        git clone https://github.com/arunabhajana/Blockchain-Based-Voting-System
 
 3. Download and install [Ganache](https://trufflesuite.com/ganache/).
 
